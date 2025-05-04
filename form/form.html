@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Forms</title>
+</head>
+<body>
+    <h2>HTML Forms</h2>
+    <form>
+        <label for="email">
+            email:
+            <input type="email" name="email" placeholder="Enter your name">
+        </label>
+
+        <label for="password">
+            password:
+            <input type="password" name="password" placeholder="Enter password">
+        </label>
+
+        <label for="gender">
+            Male: <input type="radio" name="gender">
+            Female: <input type="radio" name="gender">
+            Other: <input type="radio" name="gender">
+        </label>
+
+        <label for="state">
+            Select your state:
+            <select name="state">
+                <option value="amd">Ahmedabad</option>
+                <option value="mh">Maharashtra</option>
+                <option value="cg">Chhattisgarh</option>
+            </select>
+        </label>
+
+        <label for="checkbox">
+            Are you a robot? <input type="checkbox" name="checkbox">
+        </label>
+
+        <button type="submit">Login</button>
+        <button type="reset">Reset</button>
+    </form>
+</body>
+</html>
