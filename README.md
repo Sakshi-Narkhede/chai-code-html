@@ -14,6 +14,7 @@ This repo contains practice work and notes for learning **HTML** from different 
 5. [block_inline](./block_inline/block_inline.html)
 6. [table](./table/table.html)
 7. [form](./form/form.html)
+8. [semantic_html](./semantic_html/semantics.html)
 
 ----------------
 
