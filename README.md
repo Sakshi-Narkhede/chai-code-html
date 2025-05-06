@@ -15,6 +15,10 @@ This repo contains practice work and notes for learning **HTML** from different 
 6. [table](./table/table.html)
 7. [form](./form/form.html)
 8. [semantic_html](./semantic_html/semantics.html)
+9. [multimedia](./multimedia/multimedia.html)
+10. [images/] - Contains image files used in HTML examples.
+11. [media/] - Contains audio and video files for HTML media tag learning.
+12. [.gitignore] - Keep .gitignore for future use.
 
 ----------------
 
